@@ -14,6 +14,12 @@ class NavBar extends React.Component {
                         <li> <a href="#"> Tops </a> </li>
                     </ul>
                 </div>
+                <div>
+                    <button> search </button>
+                    <button> Facebook </button>
+                    <button> Ingresar </button>
+                    <button> Registrate </button>
+                </div>
             </div>
         )
     }
